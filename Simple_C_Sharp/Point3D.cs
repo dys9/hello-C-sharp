@@ -6,18 +6,10 @@ namespace Simple_C_Sharp
 {
     class Point3D
     {
-        int x, y, z;
-        public int X {
-            get { return x; }
-            set { x = value; } }
-        public int Y
-        {
-            get { return y; }
-            set { y = value; }}
-        public int Z
-        {
-            get { return z; }
-            set { z = value; }}
+        public int x { get; private set; }
+        public int y { get; private set; }
+        public int z { get; private set; }
+
 
         public Point3D()
         {
@@ -36,9 +28,16 @@ namespace Simple_C_Sharp
            //
         }
 
+        public override string ToString()
+        {
+            return $"({this.x}, {this.y}, {this.z})";
+        }
+
         public static Point3D operator +(Point3D a, Point3D b)
             => new Point3D(a.x + b.x, a.y+b.y, a.z+b.z);
         public static Point3D operator -(Point3D a, Point3D b)
             => new Point3D(a.x - b.x, a.y - b.y, a.z - b.z);
+
+
     }
 }
