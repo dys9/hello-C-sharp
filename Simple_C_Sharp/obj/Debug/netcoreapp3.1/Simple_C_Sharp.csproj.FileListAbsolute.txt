@@ -1,0 +1,13 @@
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.exe
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.deps.json
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.runtimeconfig.json
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.runtimeconfig.dev.json
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.dll
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\bin\Debug\netcoreapp3.1\Simple_C_Sharp.pdb
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.csprojAssemblyReference.cache
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.AssemblyInfoInputs.cache
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.AssemblyInfo.cs
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.csproj.CoreCompileInputs.cache
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.dll
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.pdb
+D:\이대현\WORK_SPACE\Project_C#\Simple_C_Sharp\Simple_C_Sharp\obj\Debug\netcoreapp3.1\Simple_C_Sharp.genruntimeconfig.cache
